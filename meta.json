@@ -5,23 +5,23 @@
     "minor": 1,
     "patch": 0
   },
-  "latestRevision": "2024-05-14T00:14:54.041Z",
+  "latestRevision": "2024-08-04T00:00:00.000Z",
   "registryIdentity": {
     "name": "bcmr for FoldingCash",
     "description": "self-published bcmr for FoldingCash"
   },
   "identities": {
-    "10b385f6a9f62a6bca5586441bccb807f9c80db2a5301a6e7144bc2b11ae83eb": {
-      "2024-05-14T00:14:54.041Z": {
+    "81a77acbe0c4d9f9d9dc15d262ca76f701d765bb209f8d2e4f95949f49a9c076": {
+      "2024-08-04T00:00:00.000Z": {
         "name": "FoldingCash",
         "description": "FoldingCash Description",
         "token": {
-          "category": "10b385f6a9f62a6bca5586441bccb807f9c80db2a5301a6e7144bc2b11ae83eb",
+          "category": "81a77acbe0c4d9f9d9dc15d262ca76f701d765bb209f8d2e4f95949f49a9c076",
           "symbol": "FLDCH",
           "decimals": 8
         },
         "uris": {
-          "icon": "https://raw.githubusercontent.com/foldingcash/FLDCH/main/FLDCH_Logo.png",
+          "icon": "https://raw.githubusercontent.com/foldingcash/FLDCH/chipnet/FLDCH_Logo.png",
           "web": "https://folding.cash"
         }
       }
