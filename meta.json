@@ -11,12 +11,12 @@
     "description": "self-published bcmr for FoldingCash"
   },
   "identities": {
-    "09177b663632ef675663930c64c99a69a10097bcdc5f8bf367d4b18e4a541c3c": {
+    "952de335804aaae4478a104f25a62603deee16264e2a1568303f4b738a0f8685": {
       "2024-08-04T00:00:00.000Z": {
         "name": "FoldingCash",
         "description": "FoldingCash Description",
         "token": {
-          "category": "09177b663632ef675663930c64c99a69a10097bcdc5f8bf367d4b18e4a541c3c",
+          "category": "952de335804aaae4478a104f25a62603deee16264e2a1568303f4b738a0f8685",
           "symbol": "FLDCH",
           "decimals": 8
         },
