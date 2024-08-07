@@ -22,7 +22,10 @@
         },
         "uris": {
           "icon": "https://raw.githubusercontent.com/foldingcash/FLDCH/main/FLDCH_Logo.png",
-          "web": "https://folding.cash"
+          "image": "https://raw.githubusercontent.com/foldingcash/FLDCH/main/FLDCH_Logo.png",
+          "web": "https://folding.cash",
+          "discord": "https://discord.com/invite/HU3YeXQ",
+          "reddit": "https://www.reddit.com/r/FoldingCash"
         }
       }
     }
