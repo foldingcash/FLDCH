@@ -5,18 +5,18 @@
     "minor": 1,
     "patch": 0
   },
-  "latestRevision": "2024-05-14T00:00:00.000Z",
+  "latestRevision": "2024-08-06T00:00:00.000Z",
   "registryIdentity": {
     "name": "bcmr for FoldingCash",
     "description": "self-published bcmr for FoldingCash"
   },
   "identities": {
-    "{category}": {
-      "2024-05-14T00:00:00.000Z": {
+    "0adb865ee9cc3038de87fba682e6cd361414edc9acff0da2fd0690d75341c640": {
+      "2024-08-06T00:00:00.000Z": {
         "name": "FoldingCash",
         "description": "FoldingCash Description",
         "token": {
-          "category": "{category}",
+          "category": "0adb865ee9cc3038de87fba682e6cd361414edc9acff0da2fd0690d75341c640",
           "symbol": "FLDCH",
           "decimals": 8
         },
