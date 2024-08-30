@@ -5,24 +5,26 @@
     "minor": 1,
     "patch": 0
   },
-  "latestRevision": "2024-08-04T00:00:00.000Z",
+  "latestRevision": "2024-08-06T00:00:00.000Z",
   "registryIdentity": {
     "name": "bcmr for FoldingCash",
     "description": "self-published bcmr for FoldingCash"
   },
   "identities": {
     "952de335804aaae4478a104f25a62603deee16264e2a1568303f4b738a0f8685": {
-      "2024-08-04T00:00:00.000Z": {
+      "2024-08-06T00:00:00.000Z": {
         "name": "FoldingCash",
-        "description": "FoldingCash Description",
+        "description": "FLDCH tokens are used to reward Folding@Home users for using their computer hardware to contribute to medical research for finding cures to cancer and other deadly diseases.",
         "token": {
           "category": "952de335804aaae4478a104f25a62603deee16264e2a1568303f4b738a0f8685",
           "symbol": "FLDCH",
           "decimals": 8
         },
         "uris": {
-          "icon": "https://raw.githubusercontent.com/foldingcash/FLDCH/chipnet/FLDCH_Logo.png",
-          "web": "https://folding.cash"
+          "icon": "ipfs://bafybeiagewolhttm3gzijznpvm5uwqoiwama7uka3mmjexpfnw4xa3s2uu",
+          "web": "https://folding.cash",
+          "discord": "https://discord.com/invite/HU3YeXQ",
+          "reddit": "https://www.reddit.com/r/FoldingCash"
         }
       }
     }
